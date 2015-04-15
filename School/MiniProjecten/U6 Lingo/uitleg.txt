@@ -1,0 +1,12 @@
+Er wordt in het begin een letter gegeven
+Team dat aan de beurt is probeert het vijf keer
+Team dat niet aan de beurt is probeert het een keer
+woord wordt gegeven
+vervolgens is het andere team
+
+
+Kraken hoeft niet
+Maximaal zes worden ingegeven
+Zesde woord is van het andere team
+zevende woord is het gegeven woord
+vijf regels, tekst schuift op
