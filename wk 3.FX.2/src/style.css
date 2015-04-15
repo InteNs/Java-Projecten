@@ -1,0 +1,51 @@
+
+.NIETSPEELBAAR{
+	-fx-background-color: #D8D8D8;
+}
+
+.WIT{
+	-fx-background-image: url('WitteSteen.png');
+	-fx-background-position: center center;
+	-fx-background-color: #996823;
+	-fx-background-size: 90%;
+	-fx-background-repeat: no-repeat;
+}
+.WITDAM{
+	-fx-background-image: url('WitteDam.png');
+	-fx-background-position: center center;
+	-fx-background-size: 90%;
+	-fx-background-repeat: no-repeat;
+	-fx-background-color: #996823;
+}
+.LEEG{
+	-fx-background-image: none;
+	-fx-background-position: center center;
+	-fx-background-size: 90%;
+	-fx-background-repeat: no-repeat;
+	-fx-background-color: #996823;
+}	
+.ZWART{
+	-fx-background-image: url('ZwarteSteen.png');
+	-fx-background-position: center center;
+	-fx-background-size: 90%;
+	-fx-background-repeat: no-repeat;
+	-fx-background-color: #996823;
+	
+}
+.ZWARTDAM{
+	-fx-background-image: url('ZwarteDam.png');
+	-fx-background-position: center center;
+	-fx-background-size: 90%;
+	-fx-background-repeat: no-repeat;
+	-fx-background-color: #996823;
+}
+.AANGEKLIKT{
+	-fx-border-style: solid;
+	-fx-border-color: yellow;
+	-fx-border-width: 5px;
+}
+.BEVESTIG{
+	-fx-border-style: solid;
+	-fx-border-color: green;
+	-fx-border-width: 5px;
+}
